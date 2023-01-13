@@ -26,9 +26,11 @@ to use this script in SCCM you create a new package
 ![image](https://user-images.githubusercontent.com/42605554/212377873-b944b526-4e55-4631-9f17-03ae818fee9e.png)
 
 Create a Standard Program
+
 ![image](https://user-images.githubusercontent.com/42605554/212377918-2500b987-7eea-4f07-9cb1-5dd0313510b4.png)
 
 Use the command listed under execution 
+
 ![image](https://user-images.githubusercontent.com/42605554/212378077-0ef29ed1-a37b-45d1-8d4f-d1bf3f7574cf.png)
 
 ![image](https://user-images.githubusercontent.com/42605554/212378182-426d5287-1f36-4a70-bd0f-52fa182df46d.png)
