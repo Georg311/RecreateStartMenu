@@ -3,11 +3,13 @@ Script to recreate Startmenu from a Template Starmenu
 
 This attempts to fix a deleted startmenu by MS faulty Signature Update
 
-You just put the Icons from the Startmenu from another pc where it wasn't deleted into the folder (so, files from **c:\ProgramData\Microsoft\Windows\Start Menu\Programs** goes into the TemplateStartMenu folder
+You just put the Icons and folders from the Startmenu from another pc where it wasn't deleted into the folder (so, files from **c:\ProgramData\Microsoft\Windows\Start Menu\Programs** goes into the TemplateStartMenu folder.
 
-![image](https://user-images.githubusercontent.com/42605554/212377506-e54638f0-cee6-4e43-ae96-673a8cb05a33.png)
+
+![image](https://user-images.githubusercontent.com/42605554/212378641-d3905bb2-4164-4599-a8ab-7b1f8e928e9f.png)
 
 This script then tries to compare the template start menu with the one on the system you are executing the script.
+So only lnks for files where the targets exist are copied
 
 This script does incremental runs, so copies only the .lnk files added.
 
