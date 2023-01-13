@@ -15,6 +15,8 @@ This script does incremental runs, so copies only the .lnk files added.
 It can right now only be used for lnks under c:\ProgramData\Microsoft\Windows\Start Menu and not for User installs (C:\Users\**user**\AppData\Roaming\Microsoft\Windows\Start Menu\Programs)
 
 ## Execution
+For the script to work it needs to be run as **Administrator**
+
 ```powershell
 powershell -executionpolicy bypass -file CompareStartMenus.ps1
 ```
