@@ -1,5 +1,7 @@
 # RecreateStartMenu
-Script to recreate Startmenu from a Template Starmenu
+Script to recreate Startmenü Icons from a Template Starmenu
+
+It only places Icons in already existing folders and only if they don't already exist by name
 
 This attempts to fix a deleted startmenu by MS faulty Signature Update
 
